@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Anany Sharma
 
-### Backend Developer | Full-Stack Developer | Game Development Enthusiast
+### Backend Developer | Full-Stack Developer
 
 Building practical applications, designing reliable APIs, and turning ideas into working software.
 
